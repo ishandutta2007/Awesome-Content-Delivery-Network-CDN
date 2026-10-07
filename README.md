@@ -66,7 +66,7 @@ Welcome to the ultimate curated directory of **content delivery network (CDN) pl
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
   **High-performance Kubernetes-native S3-compatible object storage**, AGPL-3.0 licensed. Serves as the primary origin server for self-hosted CDN infrastructure, supporting multi-cloud deployments, high-throughput media streaming, and erasure coding. 🎯
@@ -112,7 +112,7 @@ Contributions are welcome! Follow these steps to submit new CDN platforms or ope
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
